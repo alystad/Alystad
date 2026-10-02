@@ -4,5 +4,5 @@ FSU Computer Science junior (minors in Mathematics and General Business), gradua
 I build computer-vision systems and full-stack apps. Currently working on Tally Lines — a real-time crowd and line tracker for FSU nightlife: YOLO + ByteTrack person detection and tracking on public traffic-camera feeds, FastAPI backend, mobile-first web app.
 
 - Flagship: Tally Lines (private beta)
-- Also building: CourtSide NCAA — college basketball analytics app (React Native/Expo)
+- Also building: Apex — basketball analytics app with live scores, player-impact analytics and a betting model (React Native/Expo)
 - Contact: adl23e@fsu.edu
